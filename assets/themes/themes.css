@@ -1,0 +1,29 @@
+:root {
+    --primary-color:  #106002;
+}
+
+:root {
+    --grey-tint-dark: #4a8b71;
+}
+:root {
+    --grey-tint-light: #777;
+}
+:root {
+    --grey-tint-lighter: #b2b2b2;
+    --white-tint: #ffffff;
+}
+:root {
+    --red-tint: red;
+}
+:root {
+    --footer-background-tint:  #282828;
+}
+:root {
+    --btn-background-color: #f1cf69;
+}
+:root {
+    --background: #e9f1ee;
+}
+:root {
+    --btn-color: #504935;
+}
